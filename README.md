@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!!!+🙋‍♂️;+I'm+Tuhin!;Works+at+x+as+an+Software+Analyst;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!!!+🙋‍♂️;+I'm+Tuhin!;Works+at+ACN+as+an+Software+Analyst;" />
 </h1>
 
 <h3 align ='center' > Blending analytics, project management, and modern AI.</h3>
