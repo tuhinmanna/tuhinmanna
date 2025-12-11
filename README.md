@@ -45,10 +45,18 @@
 <br/>
 <hr/>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-lac-eight.vercel.app?user=tuhinmanna&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
+</p>
 
 
 
-
+<!--
+[![GitHub Streak](https://github-readme-streak-stats-lac-eight.vercel.app?user=tuhinmanna&theme=tokyonight)](https://git.io/streak-stats)
+-->
+ 
 <br/><br/>
 
 <hr/>
